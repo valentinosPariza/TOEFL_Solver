@@ -1,0 +1,57 @@
+Answer (1) by system is annoyed and the correct answer is annoyed
+
+The propotion of correctness is : 1.0
+The percentage of correctness is : 100.0%
+
+Answer (2) by system is -1. The programme doesn't know some words.
+
+The propotion of correctness is : 0.5
+The percentage of correctness is : 50.0%
+
+Answer (3) by system is amity and the correct answer is chaos
+
+The propotion of correctness is : 0.3333333333333333
+The percentage of correctness is : 33.333333333333336%
+
+Answer (4) by system is lethargy and the correct answer is lethargy
+
+The propotion of correctness is : 0.5
+The percentage of correctness is : 50.0%
+
+Answer (5) by system is -1. The programme doesn't know some words.
+
+The propotion of correctness is : 0.4
+The percentage of correctness is : 40.0%
+
+Answer (6) by system is -1. The programme doesn't know some words.
+
+The propotion of correctness is : 0.3333333333333333
+The percentage of correctness is : 33.333333333333336%
+
+Answer (7) by system is -1. The programme doesn't know some words.
+
+The propotion of correctness is : 0.2857142857142857
+The percentage of correctness is : 28.571428571428573%
+
+Answer (8) by system is -1. The programme doesn't know some words.
+
+The propotion of correctness is : 0.25
+The percentage of correctness is : 25.0%
+
+Answer (9) by system is -1. The programme doesn't know some words.
+
+The propotion of correctness is : 0.2222222222222222
+The percentage of correctness is : 22.22222222222222%
+
+Answer (10) by system is obscure and the correct answer is fatal
+
+The propotion of correctness is : 0.2
+The percentage of correctness is : 20.0%
+
+Answer (11) by system is -1. The programme doesn't know some words.
+
+The propotion of correctness is : 0.18181818181818182
+The percentage of correctness is : 18.181818181818183%
+
+
+Our programme learned 72298 different words.
