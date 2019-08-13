@@ -1,2 +1,2 @@
 TOEFL_Solver
-Automatically Solving TOEFL Synonym Questions with Computational Linguistic.
+| Automatically Solving TOEFL Synonym Questions with Computational Linguistic.
